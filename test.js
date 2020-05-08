@@ -1,1 +1,2 @@
-alert("H4CKED");
+let x = 12
+alert(x);
